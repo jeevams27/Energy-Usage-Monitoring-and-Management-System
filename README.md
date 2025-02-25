@@ -416,8 +416,9 @@ AI-Powered Energy Usage Monitoring and Management System
 ![](./5.jpeg)
 
 ## Result:
-#Model Performance
+# Model Performance
 1.A Random Forest Regressor was used for electricity bill prediction.
+
 2.The system successfully predicts electricity bills based on past usage, helping users optimize energy consumption.
 
 
