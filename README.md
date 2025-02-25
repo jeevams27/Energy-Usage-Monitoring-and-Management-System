@@ -404,11 +404,13 @@ AI-Powered Energy Usage Monitoring and Management System
 ### Home:
 ![](./1.jpeg)
 ### Recommendation page
-![](./2.jpeg)
-
-### Prediction page:
 ![](./3.jpeg)
 
+
+### Prediction page:
+![](./2.jpeg)
+
+### Dashboard page:
 ![](./4.jpeg)
 
 ![](./5.jpeg)
