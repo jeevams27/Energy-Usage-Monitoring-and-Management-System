@@ -402,4 +402,15 @@ print(generate_recommendation(user_month, user_hours, rate_per_hour))
 AI-Powered Energy Usage Monitoring and Management System
 
 ### Home:
+![](./1.jpeg)
+
+![](./2.jpeg)
+
+### Recommendation page:
+![](./3.jpeg)
+
+![](./4.jpeg)
+
+![](./5.jpeg)
+
 
