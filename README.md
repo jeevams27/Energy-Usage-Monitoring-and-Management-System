@@ -397,3 +397,9 @@ rate_per_hour = get_valid_input("Enter your electricity rate per hour (5.0-9.6):
 
 print(generate_recommendation(user_month, user_hours, rate_per_hour))
 
+```
+## Output:
+AI-Powered Energy Usage Monitoring and Management System
+
+### Home:
+
