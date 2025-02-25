@@ -403,10 +403,10 @@ AI-Powered Energy Usage Monitoring and Management System
 
 ### Home:
 ![](./1.jpeg)
-
+### Recommendation page
 ![](./2.jpeg)
 
-### Recommendation page:
+### Prediction page:
 ![](./3.jpeg)
 
 ![](./4.jpeg)
